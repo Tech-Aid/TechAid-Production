@@ -3,14 +3,18 @@ feature:
   enable: true
   image: images/Feature.jpg
   image_webp: images/Feature.webp
-  title: We’re A Digital Design Agency.
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  title: What is an MSP?
+  content: You might have read the term ‘MSP’ and wondered what it means. The abbreviation
+    stands for ‘managed services provider’. This is a concept in which businesses
+    outsource certain services to specialist companies. Outsourcing has long been
+    understood as a cost-cutting move. Find out why using MSPs is advantageous and
+    how these types of businesses operate.
   feature_item:
-  - title: SEO Optimized
+  - title: Benefits of MSPs
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: An MSP can replace a company’s IT department entirely, or provide a single
+      niche service. The industry is evolving to provide expertise to all points of
+      the globe and makes cutting-edge technology available at a low price.
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
