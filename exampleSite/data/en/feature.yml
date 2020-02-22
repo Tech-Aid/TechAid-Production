@@ -15,10 +15,11 @@ feature:
     content: An MSP can replace a company’s IT department entirely, or provide a single
       niche service. The industry is evolving to provide expertise to all points of
       the globe and makes cutting-edge technology available at a low price.
-  - title: Easy Customization
+  - title: Management of an MSP
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: An MSP provides technical knowledge, but it can’t operate with just a
+      pen, paper, and telephones. It is essential to deploy specialist software platforms
+      to automatically manage all functions
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
