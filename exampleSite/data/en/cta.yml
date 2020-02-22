@@ -1,11 +1,14 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: Maximize Your IT Investments with TechAid
+  content: Put technology to work for your business by joining forces with TechAid
+    - the leading provider and pioneer of remote DBA and data infrastructure managed
+    services. Only TechAid has the depth of expertise, services, and scale you need
+    to maximize the business value of your mission-critical technologies.
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: Start a project with us
+    link: "#contact"
