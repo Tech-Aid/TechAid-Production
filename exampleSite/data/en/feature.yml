@@ -20,11 +20,11 @@ feature:
     content: An MSP provides technical knowledge, but it can’t operate with just a
       pen, paper, and telephones. It is essential to deploy specialist software platforms
       to automatically manage all functions
-  - title: About RMM
+  - title: Support Levels
     icon: ti-stats-up
-    content: RMM means “remote monitoring and management.” The term describes a collection
-      of tools that enables offsite technicians to maintain an IT system. These systems
-      remove the need for site visits to install software and support users.
+    content: 24/7 or Custom Monitoring Coverage, Tiered Support levels (L1/2/3) for
+      Infrastructure Management, Administration, Troubleshooting, Alert and Notifications,
+      Real-time and Historical Reporting.
   - title: 'End User Services '
     icon: ti-announcement
     content: Desktop and Mobile Device Management, Virtualized Desktop Infrastructure,
