@@ -3,7 +3,7 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Electronic Security Service
+  - name: CCTV Surveillance Service
     icon: ti-world
     content: TechAid can evaluate your site and discuss the available options to suit
       your specific needs to ensure that the installation provides you with a highly
