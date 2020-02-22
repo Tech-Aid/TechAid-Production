@@ -22,11 +22,12 @@ service:
     icon: ti-palette
     content: TechAid will Provide More Than Break-Fix Support for Hundreds of Open
       Source Technologies
-  - name: Apps Development
+  - name: IT Rental Services
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Networking
+    content: TechAid Provide "IT Rental Solutions” to you as the computer rental service
+      provider. We provide customized solutions for rented equipment as per requirement.
+  - name: IT Help Desk Support Service
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: our helpdesk services allow our customers to access IT support-related
+      vital functions such as troubleshooting, guidance for regular and routine IT
+      issues, and capabilities for solving other relevant IT problems.
