@@ -13,10 +13,11 @@ service:
     content: 'TechAid can Establish & Maintain a more secure and robust network infrastructure,
       minimize network downtime and reduce network operating costs 10 percent to 20
       percent. '
-  - name: Media &amp; Advertisement
+  - name: IP Telephony Service
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: TechAid provide can provide you IP telephony suite on one easy-to-manage
+      system So you can Connect with the right person, right now from anywhere through
+      any media to any device!
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
