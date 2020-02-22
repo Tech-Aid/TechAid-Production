@@ -20,10 +20,11 @@ feature:
     content: An MSP provides technical knowledge, but it can’t operate with just a
       pen, paper, and telephones. It is essential to deploy specialist software platforms
       to automatically manage all functions
-  - title: SEO Optimized
+  - title: About RMM
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: RMM means “remote monitoring and management.” The term describes a collection
+      of tools that enables offsite technicians to maintain an IT system. These systems
+      remove the need for site visits to install software and support users.
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
