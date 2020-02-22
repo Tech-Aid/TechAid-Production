@@ -26,7 +26,7 @@ service:
     icon: ti-layout
     content: TechAid will Stay up on top of server outages and performance issues
       with our server and network monitoring Server
-  - name: IT Rental Services
+  - name: IT Rental & Sales Services
     icon: ti-package
     content: TechAid Provide "IT Rental Solutions” to you as the computer rental service
       provider. We provide customized solutions for rented equipment as per requirement.
