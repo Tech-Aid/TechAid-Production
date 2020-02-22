@@ -20,7 +20,8 @@ service:
       any media to any device!
   - name: support services for open source
     icon: ti-palette
-    content: We Provide More Than Break-Fix Support for Hundreds of Open Source Technologies
+    content: TechAid will Provide More Than Break-Fix Support for Hundreds of Open
+      Source Technologies
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
