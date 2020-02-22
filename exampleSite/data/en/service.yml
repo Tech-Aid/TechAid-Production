@@ -3,12 +3,12 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Electronic Security Solutions
+  - name: Electronic Security Service
     icon: ti-world
     content: TechAid can evaluate your site and discuss the available options to suit
       your specific needs to ensure that the installation provides you with a highly
       effective security enhancement at affordable pricing.
-  - name: Network outsourcing
+  - name: Network outsourcing Service
     icon: ti-layout
     content: 'TechAid can Establish & Maintain a more secure and robust network infrastructure,
       minimize network downtime and reduce network operating costs 10 percent to 20
