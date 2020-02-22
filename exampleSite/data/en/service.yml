@@ -3,30 +3,30 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: CCTV Surveillance Service
-    icon: ti-world
-    content: TechAid can evaluate your site and discuss the available options to suit
-      your specific needs to ensure that the installation provides you with a highly
-      effective security enhancement at affordable pricing.
-  - name: Network and Server Monitoring Service
-    icon: ti-layout
-    content: TechAid will Stay up on top of server outages and performance issues
-      with our server and network monitoring Server
-  - name: IP Telephony Support Service
-    icon: ti-blackboard
-    content: TechAid provide can provide you IP telephony suite on one easy-to-manage
-      system So you can Connect with the right person, right now from anywhere through
-      any media to any device!
   - name: Open Source Support Service
     icon: ti-palette
     content: TechAid will Provide More Than Break-Fix Support for Hundreds of Open
       Source Technologies
-  - name: IT Rental Services
-    icon: ti-package
-    content: TechAid Provide "IT Rental Solutions” to you as the computer rental service
-      provider. We provide customized solutions for rented equipment as per requirement.
+  - name: Network and Server Monitoring Service
+    icon: ti-layout
+    content: TechAid will Stay up on top of server outages and performance issues
+      with our server and network monitoring Server
   - name: IT Help Desk Support Service
     icon: ti-pulse
     content: our helpdesk services allow our customers to access IT support-related
       vital functions such as troubleshooting, guidance for regular and routine IT
       issues, and capabilities for solving other relevant IT problems.
+  - name: CCTV Surveillance Service
+    icon: ti-world
+    content: TechAid can evaluate your site and discuss the available options to suit
+      your specific needs to ensure that the installation provides you with a highly
+      effective security enhancement at affordable pricing.
+  - name: IP Telephony Support Service
+    icon: ti-blackboard
+    content: TechAid provide can provide you IP telephony suite on one easy-to-manage
+      system So you can Connect with the right person, right now from anywhere through
+      any media to any device!
+  - name: IT Rental Services
+    icon: ti-package
+    content: TechAid Provide "IT Rental Solutions” to you as the computer rental service
+      provider. We provide customized solutions for rented equipment as per requirement.
