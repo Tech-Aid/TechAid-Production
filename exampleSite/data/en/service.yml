@@ -8,10 +8,11 @@ service:
     content: TechAid can evaluate your site and discuss the available options to suit
       your specific needs to ensure that the installation provides you with a highly
       effective security enhancement at affordable pricing.
-  - name: Responsive Design
+  - name: Network outsourcing
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'TechAid can Establish & Maintain a more secure and robust network infrastructure,
+      minimize network downtime and reduce network operating costs 10 percent to 20
+      percent. '
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
