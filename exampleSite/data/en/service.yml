@@ -22,7 +22,7 @@ service:
     icon: ti-palette
     content: TechAid will Provide More Than Break-Fix Support for Hundreds of Open
       Source Technologies
-  - name: Network and Server Monitoring Service
+  - name: Network-Service Monitoring service
     icon: ti-layout
     content: TechAid will Stay up on top of server outages and performance issues
       with our server and network monitoring Server
