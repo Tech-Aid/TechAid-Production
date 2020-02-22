@@ -25,7 +25,8 @@ feature:
     content: RMM means “remote monitoring and management.” The term describes a collection
       of tools that enables offsite technicians to maintain an IT system. These systems
       remove the need for site visits to install software and support users.
-  - title: Easy Customization
+  - title: 'End User Services '
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Desktop and Mobile Device Management, Virtualized Desktop Infrastructure,
+      Directory Services, Messaging, Unfied Communication & Collaboration tools and
+      applications.
