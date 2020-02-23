@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "TechAid"
+title = "TechAid.in - IND"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
@@ -38,7 +38,7 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Sanket Parik"
+author = "TechAid.in"
 description = "We Provide better service at unbeatable price and quick hands on support for all our customers. We assist them in achieving their highest potential by providing our committed and experienced professionals"
 google_analitycs_id = "UA-158939442-1"
 logo = "images/TechAid (5).png"
