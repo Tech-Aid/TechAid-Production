@@ -6,11 +6,11 @@ contact:
   content: Email us with any questions or inquiries or call. We would be happy to
     answer you questions and set up a meeting with you. TechAid can help set you apart
     from the flock!
-  form_action: "#"
+  form_action: netlify
   contact_details:
   - icon: ti-location-pin
     info: Flat NO. 202 859E,Scheme NO. 114 Part 1,Indore (M.P.) 452010
   - icon: ti-mobile
-    info: 'Phone: +880-31-000-000'
+    info: 'Phone: +'
   - icon: ti-email
     info: 'Email: connect@techaid.in'
