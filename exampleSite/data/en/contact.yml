@@ -9,10 +9,8 @@ contact:
   form_action: "#"
   contact_details:
   - icon: ti-location-pin
-    info: Khaja Road, Bayzid, Chittagong, Bangladesh
+    info: Flat NO. 202 859E,Scheme NO. 114 Part 1,Indore (M.P.) 452010
   - icon: ti-mobile
     info: 'Phone: +880-31-000-000'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: connect@techaid.in'
