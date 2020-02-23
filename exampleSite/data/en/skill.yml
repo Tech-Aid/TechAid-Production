@@ -6,9 +6,9 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
+  - name: Time, resource and cost efficiencies
     percent: 90%
-  - name: Analysis
+  - name: Industry knowledge, expertise and insight
     percent: 70%
   - name: Access to the latest tech
     percent: 80%
