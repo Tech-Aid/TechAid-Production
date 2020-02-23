@@ -29,4 +29,4 @@ service:
   - name: IT Rental and Sales Service
     icon: ti-package
     content: TechAid Provide "IT Rental Solutions” to you as the computer rental service
-      provider. We provide customized solutions for rented equipment as per requirement.
+      provider. We provide rented equipment as per requirement.
