@@ -26,7 +26,6 @@ service:
     icon: tf-ion-cube
     content: TechAid will Stay up on top of server outages and performance issues
       with our server and network monitoring Server
-  - name: IT Rental & Sales Service
-    icon: ti-package
-    content: TechAid Provide "IT Rental Solutions” to you as the computer rental service
-      provider. We provide rented equipment as per requirement.
+  - name: IT Rental And Sales Service
+    icon: tf-ion-cube
+    content: TechAid Provide "IT Rental & Sales Solutions” For your business.
