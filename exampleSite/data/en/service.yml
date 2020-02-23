@@ -9,7 +9,7 @@ service:
       vital functions such as troubleshooting, guidance for regular and routine IT
       issues, and capabilities for solving other relevant IT problems.
   - name: IP Telephony Support Service
-    icon: ti-blackboard
+    icon: tf-ion-cube
     content: TechAid provide can provide you IP telephony suite on one easy-to-manage
       system So you can Connect with the right person, right now from anywhere through
       any media to any device!
