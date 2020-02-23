@@ -14,12 +14,12 @@ service:
       system So you can Connect with the right person, right now from anywhere through
       any media to any device!
   - name: CCTV Surveillance Service
-    icon: ti-world
+    icon: tf-ion-cube
     content: TechAid can evaluate your site and discuss the available options to suit
       your specific needs to ensure that the installation provides you with a highly
       effective security enhancement at affordable pricing.
   - name: Open Source Support Service
-    icon: ti-palette
+    icon: tf-ion-cube
     content: TechAid will Provide More Than Break-Fix Support for Hundreds of Open
       Source Technologies
   - name: Network-Service Monitoring service
