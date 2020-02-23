@@ -45,7 +45,7 @@ logo = "images/TechAid (5).png"
 post_share = true
 [params.map]
 enable = true
-gmap_api = "<img width=\"600\" src=\"https://maps.googleapis.com/maps/api/staticmap?autoscale=1&size=600x300&maptype=roadmap&key=AIzaSyCE_W_Mb7Bu0VAVAkEneLhjuyoAvxLIIEo&format=png&visual_refresh=true\" alt=\"Google Map of Albany, NY\">"
+gmap_api = <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyACvbScUKSfzvAfaezdXLiRoqVtwamwM6w&callback=myMap"></script>
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
