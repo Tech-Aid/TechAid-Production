@@ -1,4 +1,4 @@
-baseURL = "https://techaid.netlify.com"
+baseURL = "https://techaid.in"
 disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
