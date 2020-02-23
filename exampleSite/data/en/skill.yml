@@ -2,8 +2,10 @@
 skill:
   enable: true
   title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: ''
+  subtitle: We have above 100+ man hour experience
+  content: We keep our self updated with latest Trends so our clients, can take rest
+    and concentrate on business. We had an array of multidisciplinary skilled employees
+    forming the core of our capability.
   image: images/about/company-growth.webp
   skill_item:
   - name: Time, resource and cost efficiencies
@@ -12,7 +14,7 @@ skill:
     percent: 70%
   - name: Access to the latest tech
     percent: 80%
-  - name: Software Maintenance
+  - name: Software & Hardware Maintenance
     percent: 95%
   - name: Troubleshooting
     percent: 75%
