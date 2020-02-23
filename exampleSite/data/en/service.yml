@@ -4,7 +4,7 @@ service:
   title: Our Services
   service_item:
   - name: IT Help Desk Support Service
-    icon: ti-pulse
+    icon: tf-ion-cube
     content: our helpdesk services allow our customers to access IT support-related
       vital functions such as troubleshooting, guidance for regular and routine IT
       issues, and capabilities for solving other relevant IT problems.
