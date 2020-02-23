@@ -40,7 +40,7 @@ weight = 7
 [params]
 author = "Sanket Parik"
 description = "We Provide better service at unbeatable price and quick hands on support for all our customers. We assist them in achieving their highest potential by providing our committed and experienced professionals"
-google_analitycs_id = ""
+google_analitycs_id = "UA-158939442-1"
 logo = "images/TechAid (5).png"
 post_share = true
 [params.map]
