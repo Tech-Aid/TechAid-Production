@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Supported Soluction
+  title: We Support
   portfolio_item:
   - name: CentOS
     image: images/CentOS.png
@@ -19,6 +19,5 @@ portfolio:
     - Monitoring
     content: Zabbix is an open-source monitoring software tool for diverse IT components,
       including networks, servers, virtual machines and cloud services. Zabbix provides
-      monitoring metrics, among others network utilization, CPU load and disk space
-      consumption.
+      monitoring metrics, among others network utilization.
     link: https://www.zabbix.com/
