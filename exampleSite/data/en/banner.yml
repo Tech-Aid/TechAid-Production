@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/backiee-2308.webp
-  bg_image: images/backgrounds/backiee-2308.jpg
+  bg_image_webp: images/backiee-2308.webp
+  bg_image: images/backiee-2308.jpg
   icon: ''
   title: Managed Services
   content: Get the most from your IT and grow your business by leveraging skilled
