@@ -3,10 +3,10 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: Maximize Your IT Investments with TechAid
-  content: Put technology to work for your business by joining forces with TechAid
+  title: Maximize Your IT Investments with TechAID
+  content: Put technology to work for your business by joining forces with TechAID
     - the leading provider and pioneer of remote DBA and data infrastructure managed
-    services. Only TechAid has the depth of expertise, services, and scale you need
+    services. Only TechAID has the depth of expertise, services, and scale you need
     to maximize the business value of your mission-critical technologies.
   button:
     enable: true
