@@ -1,7 +1,7 @@
 ---
 portfolio:
-  enable: false
-  title: Our Works
+  enable: true
+  title: Supported Soluction
   portfolio_item:
   - name: CentOS
     image: images/CentOS.png
