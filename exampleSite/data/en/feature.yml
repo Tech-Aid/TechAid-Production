@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/Managed Services Graphic (002).png
-  image_webp: images/Managed Services Graphic (002).webp
+  image: images/msg.png
+  image_webp: images/msg.webp
   title: What is an MSP?
   content: You might have read the term ‘MSP’ and wondered what it means. The abbreviation
     stands for ‘managed services provider’. This is a concept in which businesses
