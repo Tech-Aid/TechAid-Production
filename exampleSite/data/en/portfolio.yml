@@ -6,8 +6,7 @@ portfolio:
   - name: CentOS
     image: images/CentOS.png
     image_webp: images/CentOS.webp
-    categories:
-    - Operating System
+    categories: []
     content: CentOS is a Linux distribution that provides a free, community-supported
       computing platform functionally compatible with its upstream source, Red Hat
       Enterprise Linux.
