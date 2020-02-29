@@ -44,7 +44,7 @@ google_analitycs_id = "UA-158939442-1"
 logo = "images/logo07.png"
 post_share = true
 [params.map]
-enable = true
+enable = false
 gmap_api = "\"https://maps.googleapis.com/maps/api/js?key=AIzaSyCE_W_Mb7Bu0VAVAkEneLhjuyoAvxLIIEo&callback=initMap\""
 map_latitude = "22.769953"
 map_longitude = "75.893235"
