@@ -78,7 +78,7 @@ enable = true
 preloader = "images/logo07.png"
 [[params.social]]
 icon = "ti-facebook"
-link = ""
+link = "https://www.facebook.com/techaid.in/?modal=admin_todo_tour"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
