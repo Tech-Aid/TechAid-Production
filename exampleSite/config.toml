@@ -44,10 +44,10 @@ google_analitycs_id = "UA-158939442-1"
 logo = "images/logo07.png"
 post_share = true
 [params.map]
-enable = false
-gmap_api = ""
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+enable = true
+gmap_api = "\"https://maps.googleapis.com/maps/api/js?key=AIzaSyCE_W_Mb7Bu0VAVAkEneLhjuyoAvxLIIEo&callback=initMap\""
+map_latitude = "22.769953"
+map_longitude = "75.893235"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
