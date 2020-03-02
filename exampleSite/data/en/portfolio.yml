@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: We Support
   portfolio_item:
   - name: CentOS
